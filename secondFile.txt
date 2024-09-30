@@ -1,9 +1,9 @@
 secondFile one
 secondFile two
 secondFile three
-secondFile four
+secondFile four updated in git_1
 secondFile five
-secondFile six
+secondFile six updated in git_1
 secondFile seven
 secondFile eight
 secondFile nine
