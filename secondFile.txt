@@ -4,6 +4,9 @@ secondFile three
 secondFile four updated in git_1
 secondFile five
 secondFile six updated in git_1
+secondFile four updated
+secondFile five
+secondFile six updated
 secondFile seven
 secondFile eight
 secondFile nine
